@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @cyanoluu
-- 👀 I’m interested in genome mining and associated bioinformatics tools.
-- 🌱 I’m currently learning python.
+- 👋 Hi, I’m Ludek Sehnal
+- 👀 I’m interested in (meta)genome mining for natural products discovery, associated bioinformatics tools and unconventional biosynthetic principles
 - 💞️ I would like to collaborate on genome mining softwares.
 
 <!---
